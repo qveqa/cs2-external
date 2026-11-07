@@ -1,0 +1,29 @@
+/build/
+/.local/
+/offsets/
+
+# Runtime state and diagnostics
+settings.ini
+settings.ini.bak
+imgui.ini
+target.txt
+*.log
+*.dmp
+*_crash.txt
+bonedump.txt
+
+# Compilers and editors
+*.exe
+*.dll
+*.o
+*.obj
+*.pdb
+*.ilk
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+__pycache__/
+.DS_Store
+Thumbs.db
